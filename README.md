@@ -4,6 +4,21 @@ Security researcher and developer documenting technical deep-dives, reverse engi
 
 ## Posts
 
+### 🔌 [Low-Level WebSocket Packet Monitoring in C](websocket_monitoring_c.md)
+*Intercepting network traffic at wire speed*
+
+Building a raw socket-based WebSocket packet monitor in C to analyze network traffic at the packet level with microsecond latency - bypassing the OS network stack entirely.
+
+**Topics:** C Programming, Network Programming, Raw Sockets, WebSocket Protocol, Performance Optimization
+
+**Key highlights:**
+- Raw socket implementation for packet interception
+- Manual parsing of IP, TCP, and WebSocket protocol layers
+- Achieving ~30 microsecond processing latency
+- Real-time packet size analysis before application layer
+
+---
+
 ### 🤖 [Building Your Own DeFi Brain: A Deep Dive into a NodeJS Crypto Trading Bot](defi_trading_bot.md)
 *Algorithmic trading meets blockchain automation*
 
