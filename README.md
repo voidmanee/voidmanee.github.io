@@ -1,6 +1,6 @@
 # voidmanee's Technical Blog
 
-Security researcher and developer documenting technical deep-dives, reverse engineering projects, and real-world development challenges.
+Tinkerer, Security researcher and developer documenting technical deep-dives, reverse engineering projects, and real-world development challenges.
 
 **[About](about.md)** | 20+ years professional experience | From bare metal to blockchain
 
