@@ -18,6 +18,12 @@ This autodidact approach has given me a unique perspective: I understand the fun
 
 ## What I Do
 
+** System Administration **
+
+** Life! It's all I/Os **
+
+** Hardware, software **
+
 **Security Research & Bug Bounty Hunting**
 
 My interest in security research started in the early '90s - exploring telecommunication systems, analyzing protocols, and understanding how networks communicate. What began with wardialing modems and studying phone systems evolved into modern security research and bug bounty hunting.
