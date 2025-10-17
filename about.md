@@ -1,4 +1,10 @@
-# About
+
+# About---
+layout: page
+title: About Me
+permalink: /about/
+--
+
 
 ![Dane working on network infrastructure](dane-network-rack.jpg)
 *Building and maintaining network infrastructure - where software meets hardware*
