@@ -4,6 +4,21 @@ Security researcher and developer documenting technical deep-dives, reverse engi
 
 ## Posts
 
+### 🤖 [Building Your Own DeFi Brain: A Deep Dive into a NodeJS Crypto Trading Bot](defi_trading_bot.md)
+*Algorithmic trading meets blockchain automation*
+
+Dissecting a real-world Node.js trading bot that executes automated trades on PancakeSwap DEX using real-time price monitoring and smart contract interactions.
+
+**Topics:** Web3, Blockchain, DeFi, Node.js, Smart Contracts, Algorithmic Trading
+
+**Key highlights:**
+- Real-time WebSocket blockchain monitoring
+- On-chain price oracle implementation
+- PancakeSwap Router smart contract integration
+- Automated transaction execution with gas optimization
+
+---
+
 ### 📡 [Reverse Engineering LED Sign Control Protocols](blog_post_led_signs.md)
 *A case study in protocol analysis and practical problem-solving*
 
