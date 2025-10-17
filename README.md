@@ -8,8 +8,8 @@ Tinkerer, security researcher and developer documenting technical deep-dives, re
 
 ## Posts
 
-### 🔌 [Low-Level WebSocket Packet Monitoring in C](websocket_monitoring_c.md)
-*Intercepting network traffic at wire speed*
+### 🔌 [Low-Level WebSocket Packet Monitoring in C](websocket_monitoring_c)
+*Intercepting network traffic at near wire speed*
 
 Building a raw socket-based WebSocket packet monitor in C to analyze network traffic at the packet level with microsecond latency - bypassing the OS network stack entirely.
 
@@ -23,7 +23,7 @@ Building a raw socket-based WebSocket packet monitor in C to analyze network tra
 
 ---
 
-### 🤖 [Building Your Own DeFi Brain: A Deep Dive into a NodeJS Crypto Trading Bot](defi_trading_bot.md)
+### 🤖 [Building Your Own DeFi Brain: A Deep Dive into a NodeJS Crypto Trading Bot](defi_trading_bot)
 *Algorithmic trading meets blockchain automation*
 
 Dissecting a real-world Node.js trading bot that executes automated trades on PancakeSwap DEX using real-time price monitoring and smart contract interactions.
@@ -38,7 +38,7 @@ Dissecting a real-world Node.js trading bot that executes automated trades on Pa
 
 ---
 
-### 📡 [Reverse Engineering LED Sign Control Protocols](blog_post_led_signs.md)
+### 📡 [Reverse Engineering LED Sign Control Protocols](blog_post_led_signs)
 *A case study in protocol analysis and practical problem-solving*
 
 When automation requires understanding proprietary systems - reverse engineering LED sign communications to build custom control software without vendor API access.
@@ -53,7 +53,7 @@ When automation requires understanding proprietary systems - reverse engineering
 
 ---
 
-### 💻 [Building a Device Management System: A Development Journey](device_management_system_blog.md)
+### 💻 [Building a Device Management System: A Development Journey](device_management_system_blog)
 *From spreadsheets to Django - creating custom inventory software*
 
 Full-stack development case study covering architecture decisions, debugging complex data integrity bugs, and building production software for real users.
