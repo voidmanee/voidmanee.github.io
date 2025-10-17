@@ -4,7 +4,9 @@
 
 I wrote my first program in the early 1990s on a Tandy 486 with 4MB of RAM, running DOS 6.2 and Windows 3.1. Borland Turbo C++ was my first compiler, and I've been hooked on solving problems with code ever since.
 
-**Over 20+ years of professional experience**, I've had the privilege of working through multiple technology eras - from the early days of the commercial internet to today's blockchain revolution. This journey has given me a unique perspective: I understand the fundamentals because I learned them when there were no abstractions to hide behind, but I'm equally comfortable building with modern tools and frameworks.
+**Entirely self-taught**, I've built my career through hands-on experience, relentless curiosity, and a drive to understand how systems actually work. Over 20+ years of professional experience spanning contracts at companies like Intel and Keysight Technologies to building custom production systems, I've learned that the best education comes from solving real problems - not from following a syllabus.
+
+This autodidact approach has given me a unique perspective: I understand the fundamentals because I had to figure them out myself, often by trial and error. When you learn by doing rather than being told, you develop an intuition for how things break and how to fix them. That skill set - curiosity-driven, problem-solving focused, comfortable with ambiguity - has served me well across multiple technology eras from the early internet to today's blockchain revolution.
 
 ## What I Do
 
