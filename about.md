@@ -75,6 +75,8 @@ The fundamentals haven't changed - networks still move packets, programs still n
 
 ## Current Focus
 
+**Infra / Helpdesk** not very glamorous but I currently work in the public sector. I enjoy that it's usually something new every day and I get to help people which is rewarding.
+
 **Security research** continues to be a primary interest - finding vulnerabilities, understanding attack surfaces, and helping build more secure systems through bug bounty programs and responsible disclosure.
 
 **Building production systems** that solve real problems, with a particular interest in automation, integration challenges, and systems that work at the intersection of different technology stacks.
