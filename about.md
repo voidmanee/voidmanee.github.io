@@ -1,8 +1,8 @@
-
+---
 layout: page
 title: About Me
 permalink: /about/
---
+
 # About---
 
 ![Dane working on network infrastructure](dane-network-rack.jpg)
