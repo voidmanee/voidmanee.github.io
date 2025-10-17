@@ -1,5 +1,8 @@
 # About
 
+![Dane working on network infrastructure](dane-network-rack.jpg)
+*Building and maintaining network infrastructure - where software meets hardware*
+
 ## From Tandy to Today: 30+ Years of Code
 
 I wrote my first program in the early 1990s on a Tandy 486 with 4MB of RAM, running DOS 6.2 and Windows 3.1. Borland Turbo C++ was my first compiler, and I've been hooked on solving problems with code ever since.
