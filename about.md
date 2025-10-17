@@ -26,13 +26,17 @@ Building production systems that solve real problems. I've architected and deplo
 
 When documentation doesn't exist or APIs aren't available, sometimes you need to figure out how things communicate by watching the traffic. I enjoy the detective work of decoding proprietary protocols and building interoperability where vendors say it's impossible.
 
+**Hardware & Embedded Systems**
+
+At the end of the day, it's all inputs and outputs - whether you're reading GPIO pins on a microcontroller or parsing JSON from an API. I work with hardware when needed: circuit boards, embedded systems, RF/SDR equipment, and the interfaces between physical devices and software. The principles don't change, just the voltage levels.
+
 ## Technical Range
 
 **Languages:** C, Python, JavaScript/Node.js, SQL, Bash  
 **Frameworks:** Django, ethers.js, web3.js  
-**Specialties:** Network programming, raw sockets, WebSocket protocol, smart contracts, reverse engineering  
-**Tools:** Wireshark, GDB, Git, Linux systems administration  
-**Domains:** Security research, DeFi/blockchain, systems integration, full-stack web applications
+**Specialties:** Network programming, raw sockets, WebSocket protocol, smart contracts, reverse engineering, hardware interfacing  
+**Tools:** Wireshark, GDB, Git, Linux systems administration, oscilloscopes, logic analyzers, SDR  
+**Domains:** Security research, DeFi/blockchain, systems integration, full-stack web applications, embedded systems
 
 ## Why I Write
 
@@ -74,8 +78,7 @@ The fundamentals haven't changed - networks still move packets, programs still n
 ## Connect
 
 - **GitHub:** [@voidmanee](https://github.com/voidmanee)
-- **LinkedIn:** [Add your LinkedIn URL]
-- **Email:** [If you want to share it]
+- **LinkedIn:** [Dane Phillips](https://www.linkedin.com/in/dane-phillips-4a8a291a5)
 
 Whether you're interested in collaboration, security research, technical discussions, or have questions about any of the projects documented here, feel free to reach out.
 
