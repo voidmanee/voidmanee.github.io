@@ -6,7 +6,7 @@ permalink: /about/
 # About
 
 ![Dane working on network infrastructure](dane-network-rack.jpg)
-*Building and maintaining network infrastructure - where software meets hardware*
+*Check out this sweet rack*
 
 ## From Tandy to Today: 30+ Years of Code
 
@@ -18,11 +18,16 @@ This autodidact approach has given me a unique perspective: I understand the fun
 
 ## What I Do
 
-** System Administration **
+**Break things**
 
-** Life! It's all I/Os **
+**Fix things**
 
-** Hardware, software **
+**System Administration**
+
+**Life! It's all I/Os!**
+
+**Hardware, software, *ware**
+I ain't scurrred!!
 
 **Security Research & Bug Bounty Hunting**
 
@@ -32,7 +37,7 @@ That same curiosity about how systems work (and where they break) drives my curr
 
 **Systems Programming**
 
-From raw sockets in C to smart contracts in JavaScript, I work across the full stack. Some problems require bare-metal performance and microsecond-level optimization; others need the speed and flexibility of high-level languages. I use the right tool for the job.
+From raw sockets in C to smart contracts, JavaScript, I work across the full stack. Some problems require bare-metal performance and microsecond-level optimization; others need the speed and flexibility of high-level languages. I use the right tool for the job.
 
 **Full-Stack Development**
 
@@ -55,8 +60,8 @@ At the end of the day, it's all inputs and outputs - whether you're reading GPIO
 **Domains:** Security research, DeFi/blockchain, systems integration, full-stack web applications, embedded systems
 
 ## Why I Write
-
-After two decades in tech, I've learned that the most valuable knowledge comes from solving real problems - not following tutorials or implementing toy examples. This blog documents actual projects I've built and challenges I've solved.
+Lately I have been trying to increase my online presence. After years of reading I feel like my way of giving back could be sharing some things I've learned.
+And, after two decades in tech, I've learned that the most valuable knowledge comes from solving real problems - not following tutorials or implementing toy examples. This blog documents actual projects I've built and challenges I've solved.
 
 **I write about:**
 - Low-level systems programming (because fundamentals matter)
