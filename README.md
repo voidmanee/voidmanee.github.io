@@ -8,22 +8,21 @@ Tinkerer, security researcher and developer documenting technical deep-dives, re
 
 ## Posts
 
-### 🔌 [Low-Level WebSocket Packet Monitoring in C](websocket_monitoring_c)
-*Intercepting network traffic at near wire speed*
+### 🔌 [WebSocket Packet Monitoring in C](websocket_monitoring_c)
+*Intercepting network traffic*
 
-Building a raw socket-based WebSocket packet monitor in C to analyze network traffic at the packet level with microsecond latency - bypassing the OS network stack entirely.
+Building a raw socket-based WebSocket packet monitor in C.
 
 **Topics:** C Programming, Network Programming, Raw Sockets, WebSocket Protocol, Performance Optimization
 
 **Key highlights:**
 - Raw socket implementation for packet interception
 - Manual parsing of IP, TCP, and WebSocket protocol layers
-- Achieving ~30 microsecond processing latency
 - Real-time packet size analysis before application layer
 
 ---
 
-### 🤖 [Building Your Own DeFi Brain: A Deep Dive into a NodeJS Crypto Trading Bot](defi_trading_bot)
+### 🤖 [NodeJS Crypto Trading Bot](defi_trading_bot)
 *Algorithmic trading meets blockchain automation*
 
 Dissecting a real-world Node.js trading bot that executes automated trades on PancakeSwap DEX using real-time price monitoring and smart contract interactions.
